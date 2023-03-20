@@ -6,7 +6,7 @@ Group: K34202<br />
 Author: Tasmaev Igor Aleksandrovich<br />
 Lab: Lab2<br />
 Date of create: 19.03.2023<br />
-Date of finished: <br />
+Date of finished: 20.03.2023<br />
 
 # Лабораторная работа №2 "Конфигурация voip в среде Сisco packet tracer"
 
