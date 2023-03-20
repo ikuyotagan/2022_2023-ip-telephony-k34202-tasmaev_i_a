@@ -6,7 +6,7 @@ Group: K34202<br />
 Author: Tasmaev Igor Aleksandrovich<br />
 Lab: Lab1<br />
 Date of create: 19.03.2023<br />
-Date of finished: <br />
+Date of finished: 20.03.2023<br />
 
 # Лабораторная работа №1 "Базовая настройка ip-телефонов в среде Сisco packet tracer"
 
